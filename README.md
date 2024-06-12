@@ -13,6 +13,5 @@ redes socias da empresa etc.</p>
 <p>Foi introduzido textos persoasivos.<br>
 As tecnologias usadas na criação do sit foi :<br>
 Html,Css,JavaScript.</p>
-<hr>
 
 
