@@ -1,4 +1,5 @@
 <h1>Art Glass Soluções</h1>
+<hr>
 <h2>Sobre o projeto</h2>
 <hr>
 <p>Site para vendas e Prestação de Serviços.<br>
